@@ -22,7 +22,7 @@ python3 manage.py runserver
 ![screen](screen1.png)
 <br><br>
 ![screen](screen2.png)
-<br><br>
+<br><br><br>
 ![screen](screen3.png)
 
 
